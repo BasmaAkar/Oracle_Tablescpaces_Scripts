@@ -1,0 +1,2 @@
+# Oracle_Tablescpaces_Scripts
+Tablescpaces_Scripts
